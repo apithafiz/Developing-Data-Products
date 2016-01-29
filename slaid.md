@@ -40,6 +40,6 @@ THANK YOU
 =========================================================
 Hope you enjoy using this application!! :)
 
-Application code for this application also can be found on github : https://github.com/rosida/DataProduct
+Application code for this application also can be found on github : https://github.com/apithafiz/Developing-Data-Products
 
 
